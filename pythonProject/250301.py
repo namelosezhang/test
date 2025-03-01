@@ -1,0 +1,13 @@
+x=input().split()
+a=int(x[0])
+b=int(x[1])
+c=a+b
+d=a-b
+e=a*b
+f=a//b
+g=a/b
+print(c)
+print(d)
+print(e)
+print(f)
+print(g)
